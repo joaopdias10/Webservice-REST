@@ -1,0 +1,40 @@
+# Banco de dados SQLite (gerado em tempo de execução)
+*.db
+*.sqlite
+*.sqlite3
+
+# Byte-compiled / cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Distribuição / build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testes e cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Outros
+Relatorio.docx
+Relatorio.pdf
+info.txt
